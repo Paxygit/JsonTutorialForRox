@@ -1,0 +1,15 @@
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.exe
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfo.cs
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.deps.json
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.json
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.dev.json
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.dll
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.pdb
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CopyComplete
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.dll
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.pdb
+C:\Users\theon\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.genruntimeconfig.cache

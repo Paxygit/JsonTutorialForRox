@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfxFkcZUAnISCY4jilgOKfRSHu0PKyGEAztb7w9gkjiSDB4Hm3VEME59+uA/Y5l1iCviQz/Qb7MnXEPEpSbkpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theon\\source\\repos\\JsonDemo\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
